@@ -36,3 +36,17 @@ h2 {
     justify-content: center;
     text-align: center;
 }
+
+#aboutme {
+    padding: 50px;
+}
+
+#abouttext {
+    padding: 25px;
+}
+
+.jumbotron {
+    background-color: white;
+    color: black;
+
+}
