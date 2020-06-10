@@ -16,7 +16,8 @@ This is my portfolio to showcase a little bit about me, some of my projects, my 
 This does not require installation. Please see the deployed Github [URL](https://nicolewallace09.github.io/nicolewallace-portfolio) 
 
 ## Usage 
-The usage of this application should only be to view my portfolio. 
+The usage of this application should only be to view my portfolio.<br>
+<img src="assets/images/screen.png">
 
 ## License 
 This project is license under MIT
