@@ -1,4 +1,4 @@
-# Welcome To Nicole's Portfolio
+# Nicole Wallace Portfolio
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description 
